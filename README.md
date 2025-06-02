@@ -120,8 +120,8 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow keras torch 
 ### Quick Start
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/mdnadeemm/aiml-course.git
-   cd aiml-course
+   git clone https://github.com/mdnadeemm/aiml.git
+   cd aiml
    ```
 
 2. **Install dependencies**:
@@ -227,10 +227,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 ### 🐛 **Issues and Bugs**
-Report issues on our [GitHub Issues](https://github.com/mdnadeemm/aiml-course/issues) page
+Report issues on our [GitHub Issues](https://github.com/mdnadeemm/aiml/issues) page
 
 ### 💬 **Discussion and Questions**
-Join our [GitHub Discussions](https://github.com/mdnadeemm/aiml-course/discussions) for community support
+Join our [GitHub Discussions](https://github.com/mdnadeemm/aiml/discussions) for community support
 
 ### 📧 **Contact**
 For course-related inquiries: [786.mdnadeem.786@gmail.com](mailto:786.mdnadeem.786@gmail.com)
@@ -266,7 +266,7 @@ Upon completion of all 40 chapters and their exercises, learners will have:
 
 *"The future belongs to those who learn, adapt, and apply AI responsibly."*
 
-[![GitHub stars](https://img.shields.io/github/stars/mdnadeemm/aiml-course?style=social)](https://github.com/mdnadeemm/aiml-course/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/mdnadeemm/aiml-course?style=social)](https://github.com/mdnadeemm/aiml-course/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/mdnadeemm/aiml-course)](https://github.com/mdnadeemm/aiml-course/issues)
-[![GitHub license](https://img.shields.io/github/license/mdnadeemm/aiml-course)](https://github.com/mdnadeemm/aiml-course/blob/main/LICENSE) 
+[![GitHub stars](https://img.shields.io/github/stars/mdnadeemm/aiml?style=social)](https://github.com/mdnadeemm/aiml/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/mdnadeemm/aiml?style=social)](https://github.com/mdnadeemm/aiml/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/mdnadeemm/aiml)](https://github.com/mdnadeemm/aiml/issues)
+[![GitHub license](https://img.shields.io/github/license/mdnadeemm/aiml)](https://github.com/mdnadeemm/aiml/blob/main/LICENSE) 
