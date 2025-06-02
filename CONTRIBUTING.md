@@ -5,7 +5,7 @@ We welcome contributions to make this AI/ML course even better! Whether you're f
 ## 🎯 How to Contribute
 
 ### 🐛 Reporting Issues
-- Use the [GitHub Issues](https://github.com/your-username/aiml-course/issues) page
+- Use the [GitHub Issues](https://github.com/mdnadeemm/aiml-course/issues) page
 - Provide clear description of the problem
 - Include steps to reproduce the issue
 - Add relevant code snippets or error messages
@@ -21,7 +21,7 @@ We welcome contributions to make this AI/ML course even better! Whether you're f
 #### Getting Started
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/your-username/aiml-course.git
+   git clone https://github.com/mdnadeemm/aiml-course.git
    cd aiml-course
    ```
 
@@ -220,12 +220,12 @@ Contributors will be recognized in several ways:
 ## 📞 Getting Help
 
 ### 💬 Discussion
-- Join [GitHub Discussions](https://github.com/your-username/aiml-course/discussions)
+- Join [GitHub Discussions](https://github.com/mdnadeemm/aiml-course/discussions)
 - Ask questions in relevant topic categories
 - Share ideas and get feedback
 
 ### 📧 Direct Contact
-- For complex contributions: [maintainers@example.com](mailto:maintainers@example.com)
+- For complex contributions: [maintainers@example.com](mailto:786.mdnadeem.786@gmail.com)
 - For urgent issues: Use GitHub Issues with "urgent" label
 
 ## 📜 Code of Conduct
