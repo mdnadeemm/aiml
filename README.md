@@ -233,7 +233,7 @@ Report issues on our [GitHub Issues](https://github.com/mdnadeemm/aiml-course/is
 Join our [GitHub Discussions](https://github.com/mdnadeemm/aiml-course/discussions) for community support
 
 ### 📧 **Contact**
-For course-related inquiries: [course@example.com](mailto:course@example.com)
+For course-related inquiries: [786.mdnadeem.786@gmail.com](mailto:course@example.com)
 
 ---
 
