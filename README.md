@@ -120,7 +120,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow keras torch 
 ### Quick Start
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/aiml-course.git
+   git clone https://github.com/mnadeemm/aiml-course.git
    cd aiml-course
    ```
 
@@ -227,10 +227,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 ### 🐛 **Issues and Bugs**
-Report issues on our [GitHub Issues](https://github.com/your-username/aiml-course/issues) page
+Report issues on our [GitHub Issues](https://github.com/mnadeemm/aiml-course/issues) page
 
 ### 💬 **Discussion and Questions**
-Join our [GitHub Discussions](https://github.com/your-username/aiml-course/discussions) for community support
+Join our [GitHub Discussions](https://github.com/mnadeemm/aiml-course/discussions) for community support
 
 ### 📧 **Contact**
 For course-related inquiries: [course@example.com](mailto:course@example.com)
@@ -266,7 +266,7 @@ Upon completion of all 40 chapters and their exercises, learners will have:
 
 *"The future belongs to those who learn, adapt, and apply AI responsibly."*
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/aiml-course?style=social)](https://github.com/your-username/aiml-course/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/aiml-course?style=social)](https://github.com/your-username/aiml-course/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/aiml-course)](https://github.com/your-username/aiml-course/issues)
-[![GitHub license](https://img.shields.io/github/license/your-username/aiml-course)](https://github.com/your-username/aiml-course/blob/main/LICENSE) 
+[![GitHub stars](https://img.shields.io/github/stars/mnadeemm/aiml-course?style=social)](https://github.com/mnadeemm/aiml-course/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/mnadeemm/aiml-course?style=social)](https://github.com/mnadeemm/aiml-course/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/mnadeemm/aiml-course)](https://github.com/mnadeemm/aiml-course/issues)
+[![GitHub license](https://img.shields.io/github/license/mnadeemm/aiml-course)](https://github.com/mnadeemm/aiml-course/blob/main/LICENSE) 
